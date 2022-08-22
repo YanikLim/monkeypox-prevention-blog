@@ -38,6 +38,10 @@ nav ul li a:hover{
   color: #C93239;
 }
 
+a .href{
+  color: #C93239;
+}
+
 .logo img{
   float:left;
   border-radius: 15px;
